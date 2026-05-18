@@ -4,7 +4,6 @@ async function getMovies() {
     const rating = document.getElementById('rating').value;
     const moviesContainer = document.getElementById('movies');
 
-    // ডাটা প্রসেস হওয়ার সময় লোডিং অ্যানিমেশন স্ক্রিনে দেখানোর জন্য
     moviesContainer.innerHTML = `
     <div class="loader-wrapper">
         <div class="spinner"></div>
@@ -24,7 +23,7 @@ async function getMovies() {
         const data = await response.json();
         moviesContainer.innerHTML = "";
 
-        // যদি ডেটাবেজে কোনো মুভি ম্যাচ না করে
+        // if movie not matched
         if (!data || data.length === 0) {
             moviesContainer.innerHTML = `
             <div class="no-results-panel">
@@ -36,9 +35,9 @@ async function getMovies() {
             return;
         }
 
-        // map() ব্যবহার করে সব মুভি কার্ডের HTML একসাথে জেনারেট করা হলো (ফাস্ট পারফরম্যান্স)
+        // map() 
         const moviesHTML = data.map(movie => {
-            // যদি মুভির পোস্টার ইমেজ ফোল্ডারে থাকে তবে সেটা নিবে, নয়তো আনস্প্ল্যাশ থেকে ডিফল্ট ইমেজ দেখাবে
+            // default poster if not available
             const imagePath = movie.poster ? `/static/posters/${movie.poster}` : 'https://images.unsplash.com/photo-1594909122845-11baa439b7bf?q=80&w=500';
             
             return `
@@ -59,7 +58,7 @@ async function getMovies() {
                 </div>
             </div>
             `;
-        }).join(''); // সব এলিমেন্টকে একসাথে জোড়া লাগিয়ে একটি সিঙ্গেল স্ট্রিং করা হলো
+        }).join(''); // all element into one single string
 
         moviesContainer.innerHTML = moviesHTML;
 
