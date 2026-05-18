@@ -12,7 +12,7 @@ body{
         url('https://images.unsplash.com/photo-1489599849927-2ee91cede3ba');
     background-size: cover;
     background-position: center;
-    background-attachment: fixed; /* স্ক্রোল করার সময় ব্যাকগ্রাউন্ড স্মুথ থাকবে */
+    background-attachment: fixed; /* fixed scroll bg jeno fixed thake bg */
     color: white;
 }
 
@@ -28,7 +28,7 @@ body{
     margin-bottom: 50px;
 }
 
-/* HTML এর ব্র্যান্ড ব্যাজের জন্য স্টাইল (নতুন যুক্ত করা হয়েছে) */
+/* HTML brand badge style */
 .brand-badge {
     display: inline-block;
     background: rgba(255, 61, 0, 0.15);
@@ -66,7 +66,7 @@ body{
     gap: 20px;
     margin-bottom: 40px;
     border: 1px solid rgba(255, 255, 255, 0.1);
-    align-items: end; /* বাটন এবং সিলেক্ট বক্স এক লাইনে রাখার জন্য */
+    align-items: end; /*btn and sleect box in one line */
 }
 
 .input-box label{
@@ -76,7 +76,7 @@ body{
     font-size: 14px;
 }
 
-/* টেক্সট কালার অরেঞ্জ করার জন্য */
+/* text er color orrange diyechi */
 .text-orange {
     color: #ff9100;
     margin-right: 5px;
@@ -101,14 +101,14 @@ body{
 }
 
 .input-box select option{
-    background: #121212; /* ব্ল্যাকের চেয়ে ডার্ক থিমে এটা বেশি মানায় */
+    background: #121212; /* dark theme */
     color: white;
     padding: 10px;
 }
 
 button{
     width: 100%;
-    padding: 15px; /* সিলেক্ট বক্সের সমান হাইট দেওয়ার জন্য */
+    padding: 15px; /* select box er hight */
     border: none;
     border-radius: 14px;
     background: linear-gradient(45deg, #ff3d00, #ff9100);
@@ -134,7 +134,7 @@ button active {
 
 .movie-grid{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* কার্ড একটু বড় করা হয়েছে দেখতে সুন্দর লাগার জন্য */
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* bigger card, dekhte jeno valo lage */
     gap: 30px;
 }
 
@@ -158,7 +158,7 @@ button active {
 
 .movie-card img{
     width: 100%;
-    height: 380px; /* পোস্টার রেশিও ঠিক রাখার জন্য সামান্য বাড়ানো হয়েছে */
+    height: 380px; /* fixed ration for poster */
     object-fit: cover;
 }
 
@@ -193,7 +193,7 @@ button active {
     font-weight: 300;
 }
 
-/* আইকন অ্যানিমেশন */
+/* icon animation */
 .animate-pulse {
     animation: pulse 2s infinite;
 }
@@ -213,6 +213,6 @@ button active {
     }
     .search-box {
         padding: 20px;
-        grid-template-columns: 1fr; /* মোবাইলে সব এক কলামে চলে আসবে */
+        grid-template-columns: 1fr; /* one collum in mobile view */
     }
 }
