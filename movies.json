@@ -1,0 +1,858 @@
+[
+  {
+    "title": "12 Angry Men",
+    "genre": "Drama",
+    "type": "Hollywood",
+    "rating": "9.0",
+    "poster": "12 Angry Men.jpg",
+    "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence."
+  },
+  {
+    "title": "3 Idiots",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "rating": "8.4",
+    "poster": "3 idiots.jpg",
+    "description": "Two friends are searching for their long-lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently."
+  },
+  {
+    "title": "300",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.6",
+    "poster": "300.jpg",
+    "description": "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C."
+  },
+  {
+    "title": "A Silent Voice",
+    "genre": "Anime",
+    "type": "Anime",
+    "rating": "8.1",
+    "poster": "A Silent VOice 217.jpg",
+    "description": "A young man is mutually ostracized by his classmates after he bullies a deaf girl to the point where she moves away."
+  },
+  {
+    "title": "Barfi!",
+    "genre": "Romance",
+    "type": "Bollywood",
+    "rating": "8.1",
+    "poster": "BARFI.jpg",
+    "description": "Three young people learn that love can neither be defined nor contained by society's definition of normal and abnormal."
+  },
+  {
+    "title": "Batman Begins",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "8.2",
+    "poster": "Batman 2.jpg",
+    "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption."
+  },
+  {
+    "title": "Bhoot Police",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "rating": "7.0",
+    "poster": "Bhoot Police.jpg",
+    "description": "Two brothers whose job is to hunt down and eradicate exo-spirits find themselves caught in a very unusual case in a remote village."
+  },
+  {
+    "title": "Deadpool",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "8.0",
+    "poster": "Deadpool.jpg",
+    "description": "A wisecracking mercenary gets experimented on and becomes immortal, yet ugly, and sets out to track down the man who ruined his looks."
+  },
+  {
+    "title": "Doraemon: Nobita's Space Heroes",
+    "genre": "Anime",
+    "type": "Anime",
+    "rating": "6.4",
+    "poster": "Doraemon Space Heores.png",
+    "description": "Nobita and his friends use gadgets from Doraemon to film a space hero movie, which turns into a real cosmic rescue mission."
+  },
+  {
+    "title": "Fifty Shades of Grey",
+    "genre": "Romance",
+    "type": "Hollywood",
+    "rating": "4.2",
+    "poster": "Fifty Shades of Grey.jpeg",
+    "description": "Literature student Anastasia Steele's life changes forever when she meets the handsome, yet tormented, billionaire Christian Grey."
+  },
+  {
+    "title": "Fight Club",
+    "genre": "Drama",
+    "type": "Hollywood",
+    "rating": "8.8",
+    "poster": "Fight Club.jpeg",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+  },
+  {
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "type": "Hollywood",
+    "rating": "8.8",
+    "poster": "Forest Grump.jpg",
+    "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75."
+  },
+  {
+    "title": "From Up on Poppy Hill",
+    "genre": "Anime",
+    "type": "Anime",
+    "rating": "7.4",
+    "poster": "From Up On Poppy Hill.jpg",
+    "description": "A group of Yokohama teens look to save their school's clubhouse from the wrecking ball in preparations for the 1964 Tokyo Olympics."
+  },
+  {
+    "title": "Gone Girl",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "rating": "8.1",
+    "poster": "Gone Girl.jpg",
+    "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+  },
+  {
+    "title": "Groundhog Day",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "8.0",
+    "poster": "Grounding Day.jpg",
+    "description": "A narcissistic, self-centered weatherman finds himself inexplicably living the same day over and over again."
+  },
+  {
+    "title": "The Hangover",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "7.7",
+    "poster": "Hangover.jpg",
+    "description": "Three buddies wake up from a bachelor party in Las Vegas with no memory of the previous night and the bachelor missing."
+  },
+  {
+    "title": "Housefull 3",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "rating": "5.1",
+    "poster": "Housefull 3.jpg",
+    "description": "A father doesn't want his three daughters to get married. Now, three men must convince the father that they are a perfect fit."
+  },
+  {
+    "title": "I Want to Eat Your Pancreas",
+    "genre": "Anime",
+    "type": "Anime",
+    "rating": "8.1",
+    "poster": "I Want to eat your pancreas.jpg",
+    "description": "An aloof boy stumbles upon a secret journal of a popular classmate and learns that she is dying from a pancreatic illness."
+  },
+  {
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "type": "Hollywood",
+    "rating": "8.8",
+    "poster": "Inception.jpg",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+  },
+  {
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "type": "Hollywood",
+    "rating": "8.7",
+    "poster": "Intesteller.jpg",
+    "description": "When Earth becomes uninhabitable, a team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "title": "John Wick",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.4",
+    "poster": "John Wick.jfif",
+    "description": "An ex-hitman comes out of retirement to track down the gangsters that took everything from him."
+  },
+  {
+    "title": "John Wick: Chapter 2",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.4",
+    "poster": "John wick.jpg",
+    "description": "After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life."
+  },
+  {
+    "title": "Kabir Singh",
+    "genre": "Romance",
+    "type": "Bollywood",
+    "rating": "7.0",
+    "poster": "Kabir_Singh.jpg",
+    "description": "A short-tempered house surgeon goes down a self-destructive path after the love of his life is forced to marry someone else."
+  },
+  {
+    "title": "Kal Ho Naa Ho",
+    "genre": "Romance",
+    "type": "Bollywood",
+    "rating": "7.9",
+    "poster": "Kal_Ho_Naa_Ho_poster.jpg",
+    "description": "Naina's life is bleak until she meets Aman. But Aman has a secret that prevents him from reciprocating her love."
+  },
+  {
+    "title": "Mission: Impossible",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.1",
+    "poster": "MI.jpg",
+    "description": "An American secret agent, false accused of disloyalty, must break into a highly secured government command to clear his name."
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "9.0",
+    "poster": "MV5BMthe dark knight.jpg",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "8.1",
+    "poster": "Mad Max Fury Road.jpg",
+    "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners and a drifter named Max."
+  },
+  {
+    "title": "Mad Max",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "6.8",
+    "poster": "Mad Max.jpg",
+    "description": "In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang."
+  },
+  {
+    "title": "Doraemon: Nobita's New Dinosaur",
+    "genre": "Anime",
+    "type": "Anime",
+    "rating": "7.0",
+    "poster": "Nobita's New Dianosore.jpg",
+    "description": "Nobita accidentally finds a fossilized dinosaur egg and hatches two new species of dinosaurs, initiating a grand time-travel adventure."
+  },
+  {
+    "title": "Ponyo",
+    "genre": "Anime",
+    "type": "Anime",
+    "rating": "7.6",
+    "poster": "Ponyo.jpg",
+    "description": "A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human girl."
+  },
+  {
+    "title": "Sanam Teri Kasam",
+    "genre": "Romance",
+    "type": "Bollywood",
+    "rating": "7.6",
+    "poster": "SANAM TERI KASAM.jfif",
+    "description": "A musical tragic love story of an outcast girl Saraswati and an ex-convict Inder."
+  },
+  {
+    "title": "Se7en",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "rating": "8.6",
+    "poster": "Se7en.jpg",
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "type": "Hollywood",
+    "rating": "9.3",
+    "poster": "Shawshank Redemption.jpg",
+    "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion."
+  },
+  {
+    "title": "Stand by Me Doraemon",
+    "genre": "Anime",
+    "type": "Anime",
+    "rating": "7.3",
+    "poster": "Stand_by_Me_Doraemon.jpg",
+    "description": "A cat-shaped robot from the 22nd century travels back in time to guide a miserable young boy onto the path of happiness."
+  },
+  {
+    "title": "Stand by Me Doraemon 2",
+    "genre": "Anime",
+    "type": "Anime",
+    "rating": "7.5",
+    "poster": "Stand_by_Me_Doraemon_2.jpg",
+    "description": "Nobita travels back to the past to see his beloved grandmother, leading to an emotional journey about family bonds and future responsibilities."
+  },
+  {
+    "title": "Step Brothers",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "6.9",
+    "poster": "Stepbrothers.jpg",
+    "description": "Two middle-aged, spoiled deeply immature men still living with their parents are forced to become roommates when their parents marry."
+  },
+  {
+    "title": "Shutter Island",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "rating": "8.2",
+    "poster": "Stutter Island.jpg",
+    "description": "A U.S. Marshal encounters terrifying truths when he investigates the disappearance of a murderer who escaped from a hospital for the criminally insane."
+  },
+  {
+    "title": "Superbad",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "7.6",
+    "poster": "Superbad.jpg",
+    "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-fueled party goes awry."
+  },
+  {
+    "title": "Suzume",
+    "genre": "Anime",
+    "type": "Anime",
+    "rating": "7.6",
+    "poster": "Suzume_no_Tojimari.jpg",
+    "description": "A modern action-adventure road movie where a 17-year-old girl named Suzume helps a mysterious young man close doors causing disasters across Japan."
+  },
+  {
+    "title": "Tekkonkinkreet",
+    "genre": "Anime",
+    "type": "Anime",
+    "rating": "7.5",
+    "poster": "Tekkonkinkreet.png",
+    "description": "In Treasure Town, two street orphans, Black and White, wage war against yakuza forces trying to take over their city."
+  },
+  {
+    "title": "The Matrix",
+    "genre": "Sci-Fi",
+    "type": "Hollywood",
+    "rating": "8.7",
+    "poster": "The Martix.jpg",
+    "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of a malevolent cyber-intelligence."
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "genre": "Drama",
+    "type": "Hollywood",
+    "rating": "8.0",
+    "poster": "The Pursuit of Happiness.jpg",
+    "description": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career."
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "rating": "8.6",
+    "poster": "The Silence of Lambs.jpg",
+    "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to catch another serial killer."
+  },
+  {
+    "title": "The Martian",
+    "genre": "Sci-Fi",
+    "type": "Hollywood",
+    "rating": "8.0",
+    "poster": "The.Martian.jpg",
+    "description": "An astronaut becomes stranded on Mars after his team assumes him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive."
+  },
+  {
+    "title": "Theri",
+    "genre": "Action",
+    "type": "Bollywood",
+    "rating": "7.6",
+    "poster": "Theri.jpg",
+    "description": "When his daughter's life is threatened by a local gangster, an honest former cop must step up to protect her and settle an old score."
+  },
+  {
+    "title": "Your Name.",
+    "genre": "Anime",
+    "type": "Anime",
+    "rating": "8.4",
+    "poster": "Your Name.jpg",
+    "description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?"
+  },
+  {
+    "title": "Aashiqui 2",
+    "genre": "Romance",
+    "type": "Bollywood",
+    "rating": "7.0",
+    "poster": "aashiqui 2.jpg",
+    "description": "Rahul loses his fans and fame due to alcoholism. However, he decides to turn a small-time singer into a rising star."
+  },
+  {
+    "title": "Animal",
+    "genre": "Action",
+    "type": "Bollywood",
+    "rating": "6.7",
+    "poster": "animal.jpg",
+    "description": "A violent father-son crime drama about a son's obsessive love for his father."
+  },
+  {
+    "title": "Arrival",
+    "genre": "Sci-Fi",
+    "type": "Hollywood",
+    "rating": "7.9",
+    "poster": "arrival.jpg",
+    "description": "A linguist works with the military to communicate with alien spacecrafts that have landed around the world."
+  },
+  {
+    "title": "Avengers: Endgame",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "8.4",
+    "poster": "avengers endgame.jfif",
+    "description": "After the devastating events of Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more."
+  },
+  {
+    "title": "Batman Begins",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "8.2",
+    "poster": "batmab begins.jpg",
+    "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption."
+  },
+  {
+    "title": "Bhool Bhulaiyaa",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "rating": "7.4",
+    "poster": "bhool bhulaiya.jpg",
+    "description": "An eccentric psychiatrist comes to solve a psychological mystery inside a haunted mansion."
+  },
+  {
+    "title": "Captain America: Civil War",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.8",
+    "poster": "captain america civil war.jfif",
+    "description": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man."
+  },
+  {
+    "title": "Casino Royale",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "8.0",
+    "poster": "casino royale.jfif",
+    "description": "James Bond goes on his first mission as a 00 agent, targeting a private banker to terrorists in a high-stakes poker game."
+  },
+  {
+    "title": "Die Hard",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "8.2",
+    "poster": "die hard.jfif",
+    "description": "An N.Y.P.D. officer tries to save his leading wife and several others taken hostage by German terrorists during a Christmas party."
+  },
+  {
+    "title": "Dumb and Dumber",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "7.3",
+    "poster": "dumb and dumber.jpg",
+    "description": "After a woman leaves a briefcase at the airport terminal, two well-meaning but incredibly stupid friends cross the country to return it."
+  },
+  {
+    "title": "Elysium",
+    "genre": "Sci-Fi",
+    "type": "Hollywood",
+    "rating": "6.6",
+    "poster": "elysium.jpg",
+    "description": "In the year 2154, the very wealthy live on a man-made space station while the rest of the population resides on a ruined Earth."
+  },
+  {
+    "title": "Ex Machina",
+    "genre": "Sci-Fi",
+    "type": "Hollywood",
+    "rating": "7.7",
+    "poster": "ex machina.jpg",
+    "description": "A programmer at a huge internet-search giant is chosen to participate in a ground-breaking experiment in synthetic intelligence."
+  },
+  {
+    "title": "Extraction",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "6.8",
+    "poster": "extraction.jfif",
+    "description": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career."
+  },
+  {
+    "title": "The Fast and the Furious",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "6.8",
+    "poster": "fast and furious.jpg",
+    "description": "Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he infiltrates a street racing gang."
+  },
+  {
+    "title": "Gladiator",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "8.5",
+    "poster": "gladiator.jpg",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+  },
+  {
+    "title": "Golmaal: Fun Unlimited",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "rating": "7.5",
+    "poster": "golmaal.jfif",
+    "description": "Four runaway friends con a blind couple into letting them stay in their house, leading to hilarious complications."
+  },
+  {
+    "title": "Hera Pheri",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "rating": "8.1",
+    "poster": "hera feri.jpg",
+    "description": "Three unemployed men look for answers to all their financial problems, but an accidental wrong number completely changes their plans."
+  },
+  {
+    "title": "Hereditary",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "rating": "7.3",
+    "poster": "hereditary.jfif",
+    "description": "A grieving family is haunted by tragic and disturbing occurrences after the death of their secretive grandmother."
+  },
+  {
+    "title": "Housefull",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "rating": "5.5",
+    "poster": "housfull.jpg",
+    "description": "A jinxed man believes he can find true love, but his bad luck leads to massive lies and chaotic misunderstandings."
+  },
+  {
+    "title": "I Am Legend",
+    "genre": "Sci-Fi",
+    "type": "Hollywood",
+    "rating": "7.2",
+    "poster": "i am legend.jpg",
+    "description": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles to find a cure."
+  },
+  {
+    "title": "Jawan",
+    "genre": "Action",
+    "type": "Bollywood",
+    "rating": "7.0",
+    "poster": "jawan.jpg",
+    "description": "A high-octane action thriller which outlines the emotional journey of a man who is set to rectify the wrongs in the society."
+  },
+  {
+    "title": "Johnny English",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "6.2",
+    "poster": "jonny english.jpg",
+    "description": "After a sudden attack on MI7, Johnny English, Britain's most confident yet unintelligent spy, becomes Britain's only hope."
+  },
+  {
+    "title": "Jumanji: Welcome to the Jungle",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.0",
+    "poster": "jumanji.jpg",
+    "description": "Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game."
+  },
+  {
+    "title": "Krrish",
+    "genre": "Action",
+    "type": "Bollywood",
+    "rating": "6.4",
+    "poster": "krrish.jfif",
+    "description": "Krishna is forced by circumstances to use his superpowers and become the masked superhero Krrish to save his father."
+  },
+  {
+    "title": "Looper",
+    "genre": "Sci-Fi",
+    "type": "Hollywood",
+    "rating": "7.4",
+    "poster": "looper.jfif",
+    "description": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun makes the hit."
+  },
+  {
+    "title": "Marriage Story",
+    "genre": "Drama",
+    "type": "Hollywood",
+    "rating": "7.9",
+    "poster": "marrige story.jpg",
+    "description": "Academy Award-nominated filmmaker Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together."
+  },
+  {
+    "title": "Midsommar",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "rating": "7.1",
+    "poster": "midsommar.jfif",
+    "description": "A couple travels to Scandinavia to visit a rural hometown's fabled midsummer festival, which turns into a pagan cult nightmare."
+  },
+  {
+    "title": "Mission: Impossible - Fallout",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.7",
+    "poster": "mission impossible fallout.jfif",
+    "description": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission goes wrong."
+  },
+  {
+    "title": "Mr. Bean's Holiday",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "6.4",
+    "poster": "mr bean holiday.jpg",
+    "description": "Mr. Bean wins a trip to Cannes where he unwittingly separates a young boy from his father and must help them reunite."
+  },
+  {
+    "title": "Munna Bhai M.B.B.S.",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "rating": "8.1",
+    "poster": "munna bhai mbbs.jpg",
+    "description": "A gangster sets out to fulfill his father's dream of him becoming a doctor, using his own unique style of healing."
+  },
+  {
+    "title": "My Name Is Khan",
+    "genre": "Drama",
+    "type": "Bollywood",
+    "rating": "7.9",
+    "poster": "my name is khan.jpg",
+    "description": "An Indian Muslim man with Asperger's syndrome embarks on a journey across America to speak to the President and clear his name."
+  },
+  {
+    "title": "Nobody",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.4",
+    "poster": "nobody.jfif",
+    "description": "A bystander who intervenes to help a woman being harassed by a group of men becomes the target of a vengeful drug lord."
+  },
+  {
+    "title": "Orphan",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "rating": "7.0",
+    "poster": "orphan.jpg",
+    "description": "A husband and wife who recently lost their baby adopt a 9-year-old girl, who is not nearly as innocent as she claims to be."
+  },
+  {
+    "title": "Pacific Rim",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "6.9",
+    "poster": "pacific rim.jpg",
+    "description": "As a war between humankind and monstrous sea creatures rages on, a former pilot and a trainee are paired up to drive a legendary weapon."
+  },
+  {
+    "title": "Pathaan",
+    "genre": "Action",
+    "type": "Bollywood",
+    "rating": "5.9",
+    "poster": "pathan.jpg",
+    "description": "An Indian secret agent races against a rogue mercenary leader who is planning a massive bio-weapon attack on India."
+  },
+  {
+    "title": "PK",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "rating": "8.1",
+    "poster": "pk.jfif",
+    "description": "An alien on Earth loses the only device he can use to communicate with his spaceship, forcing him to question religious dogmas."
+  },
+  {
+    "title": "Ride Along",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "6.1",
+    "poster": "ride along.jpg",
+    "description": "Security guard Ben must prove to his girlfriend's top-cop brother James that he is good enough for her by joining a 24-hour patrol."
+  },
+  {
+    "title": "Saw",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "rating": "7.6",
+    "poster": "saw.jpg",
+    "description": "Two strangers awake in a room with no memory of how they got there, and soon discover they're pawns in a deadly game perpetrated by a notorious serial killer."
+  },
+  {
+    "title": "Singham",
+    "genre": "Action",
+    "type": "Bollywood",
+    "rating": "6.8",
+    "poster": "singham.jpg",
+    "description": "An honest small-town police officer clashes with a corrupt politician-turned-extortionist who challenges his authority."
+  },
+  {
+    "title": "Sinister",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "rating": "6.8",
+    "poster": "sinister.jpg",
+    "description": "A washed-up true-crime writer finds a box of super 8 home movies in his new house that suggest the murder he is researching is the work of a serial killer."
+  },
+  {
+    "title": "Skyfall",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.8",
+    "poster": "skyfall.jfif",
+    "description": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down the threat."
+  },
+  {
+    "title": "Superbad",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "7.6",
+    "poster": "superbad.jfif",
+    "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-fueled party goes awry."
+  },
+  {
+    "title": "Taken",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.8",
+    "poster": "taken.jfif",
+    "description": "A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter who has been kidnapped."
+  },
+  {
+    "title": "Tamasha",
+    "genre": "Drama",
+    "type": "Bollywood",
+    "rating": "7.3",
+    "poster": "tamASHA.jpg",
+    "description": "An internal journey of a man who loses his true self by trying to conform to society's standards and conventions."
+  },
+  {
+    "title": "The Black Phone",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "rating": "6.9",
+    "poster": "the black phonr.jpg",
+    "description": "After being abducted by a child killer and locked in a soundproof basement, a 13-year-old boy starts receiving calls on a disconnected phone from the killer's previous victims."
+  },
+  {
+    "title": "The Curious Case of Benjamin Button",
+    "genre": "Drama",
+    "type": "Hollywood",
+    "rating": "7.8",
+    "poster": "the curious case of benjamin.jpg",
+    "description": "Tells the story of Benjamin Button, a man who starts aging backwards with bizarre and emotional consequences."
+  },
+  {
+    "title": "The Dictator",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "6.4",
+    "poster": "the dictator.jpg",
+    "description": "The heroic story of a North African dictator who risks his life to ensure that democracy would never come to the country he so lovingly oppressed."
+  },
+  {
+    "title": "The Equalizer",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.2",
+    "poster": "the equalizer.jpg",
+    "description": "A man who believes he has put his mysterious past behind him cannot stand idly by when he meets a young girl under the control of ultra-violent Russian gangsters."
+  },
+  {
+    "title": "The Notebook",
+    "genre": "Romance",
+    "type": "Hollywood",
+    "rating": "7.8",
+    "poster": "the notebook.jfif",
+    "description": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's from a notebook."
+  },
+  {
+    "title": "The Nun",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "rating": "5.3",
+    "poster": "the nun.jfif",
+    "description": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania."
+  },
+  {
+    "title": "The Prestige",
+    "genre": "Drama",
+    "type": "Hollywood",
+    "rating": "8.5",
+    "poster": "the prestige.jfif",
+    "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have."
+  },
+  {
+    "title": "The Raid: Redemption",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.6",
+    "poster": "the raid.jpg",
+    "description": "An elite SWAT team becomes trapped in a high-rise building run by a ruthless drug lord and his army of killers and thugs."
+  },
+  {
+    "title": "The Social Network",
+    "genre": "Drama",
+    "type": "Hollywood",
+    "rating": "7.8",
+    "poster": "the social network.jpg",
+    "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea."
+  },
+  {
+    "title": "The Terminal",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "7.4",
+    "poster": "the terminal.jfif",
+    "description": "An Eastern European tourist finds himself stranded in JFK airport when a war erupts in his homeland, making his passport invalid."
+  },
+  {
+    "title": "The Wolf of Wall Street",
+    "genre": "Drama",
+    "type": "Hollywood",
+    "rating": "8.2",
+    "poster": "the wolf of wall street.jfif",
+    "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stockbroker living the high life to his fall involving crime and corruption."
+  },
+  {
+    "title": "Tiger Zinda Hai",
+    "genre": "Action",
+    "type": "Bollywood",
+    "rating": "5.9",
+    "poster": "tiger jinda hei.jpg",
+    "description": "Tiger and Zoya join forces once again to rescue a group of nurses held hostage by a terrorist organization in Iraq."
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "8.3",
+    "poster": "top gun maverick.jpg",
+    "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, training a detachment of graduates for a dangerous special mission."
+  },
+  {
+    "title": "Transformers",
+    "genre": "Sci-Fi",
+    "type": "Hollywood",
+    "rating": "7.0",
+    "poster": "transformer.jfif",
+    "description": "An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth."
+  },
+  {
+    "title": "Troy",
+    "genre": "Action",
+    "type": "Hollywood",
+    "rating": "7.3",
+    "poster": "troy.jfif",
+    "description": "An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces."
+  },
+  {
+    "title": "War",
+    "genre": "Action",
+    "type": "Bollywood",
+    "rating": "6.5",
+    "poster": "war.jpg",
+    "description": "An Indian soldier is assigned to eliminate his former mentor, who has gone rogue after multiple secret operations."
+  },
+  {
+    "title": "Yes Man",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "rating": "6.8",
+    "poster": "yes man.jpg",
+    "description": "A man challenges himself to say 'yes' to absolutely everything for an entire year, changing his dull life completely."
+  }
+]

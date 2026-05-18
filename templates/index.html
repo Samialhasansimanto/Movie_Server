@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CineMind AI - Recommendation Hub</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="overlay"></div>
+
+<div class="container">
+    <div class="hero">
+        <div class="brand-badge">VISION CODERS ENTERPRISE</div>
+        <h1>🎬 CineMind</h1>
+        <p>Rating & Genre Core Correlation Matrix</p>
+    </div>
+
+    <div class="search-box">
+        
+        <div class="input-box">
+            <label><i class="fas fa-masks-theater text-orange"></i> Choose Genre</label>
+            <select id="genre">
+                <option value="Action">Action</option>
+                <option value="Comedy">Comedy</option>
+                <option value="Drama">Drama</option>
+                <option value="Sci-Fi">Sci-Fi</option>
+                <option value="Thriller">Thriller</option>
+                <option value="Romance">Romance</option>
+                <!-- JSON ফাইলের সাথে মিলিয়ে Animation পরিবর্তন করে Anime করা হলো -->
+                <option value="Anime">Anime</option> 
+            </select>
+        </div>
+
+        <div class="input-box">
+            <label><i class="fas fa-clapperboard text-orange"></i> Media Type</label>
+            <select id="type">
+                <option value="Hollywood">Hollywood Movie</option>
+                <option value="Bollywood">Bollywood Movie</option>
+                <option value="Anime">Anime Movie</option> <!-- JSON-এর type: "Anime" এর জন্য -->
+                <option value="Series">TV Web Series</option> <!-- JSON-এর type: "Series" এর জন্য -->
+                <option value="Korean">Korean Media</option>
+            </select>
+        </div>
+
+        <div class="input-box">
+            <label><i class="fas fa-star text-orange"></i> Target Rating Range</label>
+            <select id="rating">
+                <option value="0.0">All Ratings (Any Quality)</option>
+                <option value="9.0">Critical Gold Class (★ 9.0+)</option>
+                <option value="8.0">Highly Recommended (★ 8.0+)</option>
+                <option value="7.0">Good Standard Media (★ 7.0+)</option>
+                <option value="5.0">Average Popcorn View (★ 5.0+)</option>
+            </select>
+        </div>
+
+        <button onclick="getMovies()">
+            <i class="fas fa-bolt animate-pulse"></i> Match Engine
+        </button>
+    </div>
+
+    <!-- API থেকে আসা ডেটা এই গ্রিডের ভেতরে রেন্ডার হবে -->
+    <div id="movies" class="movie-grid"></div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
